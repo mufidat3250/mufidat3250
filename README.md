@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='center' style='color:pink'>
   ### Hi there 👋
 </div>
 

@@ -6,7 +6,6 @@
 ### About me
 <p>I am  a self motivated software developer with positive attitudes towards <br/> problem solving and also a great team player.</p>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/mufidat3250/WeatherForcast-html-css-javascript-)
 
 - 🌱 I’m currently learning **Graphql**
 

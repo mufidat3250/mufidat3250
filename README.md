@@ -7,11 +7,11 @@
 <p>I am  a self motivated software developer with positive attitudes towards <br/> problem solving and also a great team player.</p>
 
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Any Front-end project**
+- 🤝 I’m looking to help with **Any Front-end project**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sooty-omega.vercel.app/](https://my-portfolio-sooty-omega.vercel.app/)
 

@@ -7,15 +7,14 @@
 <p>I am  a self motivated software developer with positive attitudes towards <br/> problem solving and also a great team player.</p>
 
 
-- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking to help with **Any Front-end project**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sooty-omega.vercel.app/](https://my-portfolio-sooty-omega.vercel.app/)
+- 👨‍💻 You can checkout my [portfolio](https://mufidah.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS JavaScript, React, Next.js Tailwind CSS, Styled Component,**
+- 💬 Ask me about **HTML, CSS JavaScript, React, Next.js Tailwind CSS, Styled Component, TypeScript**
 
 - 📫 How to reach me **wahabmufidat1919@gmail.com**
 - 😄 Pronouns: ...her/she
@@ -31,9 +30,9 @@
 
 
 ![Mufidat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufidat3250&count_private=true&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mufidat3250&" alt="mufidat3250" /></p>
+<!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mufidat3250&" alt="mufidat3250" /></p> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufidat3250" alt="mufidat3250" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufidat3250" alt="mufidat3250" /></a> </p> -->

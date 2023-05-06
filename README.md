@@ -4,7 +4,7 @@
 <img alt='gif' src='https://user-images.githubusercontent.com/77861437/204753610-1c5582d4-fdcb-4bfa-9669-b11ffb1372d3.gif' width="1000" style='object-fit:cover' height="300"/>
 
 ### About me
-<p>I am  a self motivated software developer with positive attitudes towards <br/> problem solving and also a great team player.</p>
+<p>I am  a self motivated software developer with positive attitudes towards <br/> problem solving users problems and also pay keen attention to details.</p>
 
 
 

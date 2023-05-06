@@ -6,8 +6,6 @@
 ### About me
 <p>I am  a self motivated software developer with positive attitudes towards <br/> problem solving users problems and also pay keen attention to details.</p>
 
-
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking to help with **Any Front-end project**
@@ -36,3 +34,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufidat3250" alt="mufidat3250" /></a> </p> -->
+
+## Links to some of my work
+   * [GlobalFinburs](https://finbus-global.vercel.app/)
+   * [Munkef](https://explore-the-world-seven.vercel.app/)
+   * [RiseVest](https://risevest-clone.vercel.app/)
+
